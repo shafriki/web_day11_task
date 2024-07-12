@@ -11,3 +11,21 @@
     width: 50px;
     height: 50px;
 }
+
+/* for form.html */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+    
+}
+
+.navbar a{
+    text-decoration: none;
+}
+
+.nav-items a{
+    font-size: 22px;
+    text-decoration: none;
+    
+}
